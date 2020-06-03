@@ -6,6 +6,6 @@ public class TestKuboid {
     {
         Kuboid oneKub = new Kuboid(12,14,13, false,true);
 
-        System.out.printf("The base of the Kuboid is %g", oneKub.getBase());
+        System.out.printf("The base of the Cuboid is %g", oneKub.getBase());
     }
 }
